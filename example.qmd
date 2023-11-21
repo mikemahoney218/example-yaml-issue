@@ -1,0 +1,14 @@
+---
+title: "Example of Quarto missing CSS when scss is in directory, but the 'theme' key has incorrect indentation"
+author:
+  - name: "Also, author keys being misformatted doesn't impact rendering either:"
+orcid: 0000-0003-2402-304X
+email: mjmahone@esf.edu
+url: https://mm218.dev
+format:
+  revealjs:
+    standalone: true
+theme: [default, custom.scss]
+---
+
+# Example header
